@@ -92,7 +92,6 @@ function App() {
       };
     }
     
-    //===
      setNewArr(copy);
      setNewStep(0);
      return pool;
