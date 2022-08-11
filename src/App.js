@@ -2,7 +2,6 @@ import React, {useState} from "react"
 
 function App() {
 
-  
   const [myArr,setNewArr] = useState([ 
       ["И","Г","Р","А"],
       [,,,],
